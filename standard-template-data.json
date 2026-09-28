@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-09-28T01:16:38.878717775Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-09-28T01:19:44.284294716Z",
     "templateType": "trip_f",
     "propertyId": "109e586d-83d0-47cf-bcf3-04ac37813638",
     "homepageId": "01a0a8de-745a-7bc6-9cb1-54a7006405c8"
@@ -5352,7 +5352,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "원룸형"
         },
         {
           "id": "a8b5ff9c-da1c-4f3c-a409-0ebacd647374",
@@ -5476,7 +5477,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "복층형"
         },
         {
           "id": "d6fd65f2-e2d1-4bec-a8c1-bdc3d4943592",
@@ -5609,7 +5611,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "복층형"
         },
         {
           "id": "344541a2-a6da-487c-a9de-7da7adac5069",
@@ -5733,7 +5736,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "원룸형"
         },
         {
           "id": "d0c83053-24f1-4112-9528-d9d3ed17e726",
@@ -5857,7 +5861,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "원룸형"
         },
         {
           "id": "dc01605c-81a5-491b-a7d6-e5d9c4473545",
@@ -5972,7 +5977,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "원룸형"
         },
         {
           "id": "9a37bd53-57c3-4f07-a3e9-944ddd1e426a",
@@ -6132,7 +6138,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "복층형"
         },
         {
           "id": "eba8f833-4928-42a0-86ca-ba40314d5bb6",
@@ -6292,7 +6299,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "복층형"
         },
         {
           "id": "4be38b6d-30a8-4305-90b2-f3fb92a49f99",
@@ -6416,7 +6424,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "복층형"
         },
         {
           "id": "94ff3d16-21f3-4e76-8d21-0c71332761f5",
@@ -6709,7 +6718,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "원룸형"
         },
         {
           "id": "7223d1d0-3821-4e95-bc9d-524e8d9708c6",
@@ -6833,7 +6843,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "원룸형"
         },
         {
           "id": "e51c55fd-8df2-4288-8c33-929b74d997c7",
@@ -6957,7 +6968,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "복층형"
         },
         {
           "id": "c295b2fb-9b10-4e4b-91c5-7a73f7c99516",
@@ -7090,7 +7102,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "복층형"
         },
         {
           "id": "a7a26f7f-b828-41ef-a2e2-9df4ad0cb743",
