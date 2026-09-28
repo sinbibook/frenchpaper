@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-28T01:16:08.975474150Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-09-28T01:16:38.878717775Z",
     "templateType": "trip_f",
     "propertyId": "109e586d-83d0-47cf-bcf3-04ac37813638",
     "homepageId": "01a0a8de-745a-7bc6-9cb1-54a7006405c8"
@@ -5227,7 +5227,8 @@
               "category": "roomtype_exterior"
             }
           ],
-          "nameEn": ""
+          "nameEn": "",
+          "groupName": "원룸형"
         },
         {
           "id": "b166ce62-7689-4aca-ab2b-60dbad8f8e7f",
