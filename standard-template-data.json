@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-09-28T01:22:58.782199734Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-10-01T09:44:56.971310248Z",
     "templateType": "trip_f",
     "propertyId": "109e586d-83d0-47cf-bcf3-04ac37813638",
     "homepageId": "01a0a8de-745a-7bc6-9cb1-54a7006405c8"
@@ -5012,6 +5012,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
@@ -5052,7 +5055,7 @@
               }
             ],
             "slider": false,
-            "enabled": true,
+            "enabled": false,
             "endDate": null,
             "sortOrder": 1,
             "startDate": null,
