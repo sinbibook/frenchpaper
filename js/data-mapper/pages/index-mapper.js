@@ -144,11 +144,14 @@
     video.loop = true;
     video.muted = true;
     video.playsInline = true;
+    // 브라우저 기본 컨트롤 — 마우스를 올리면 재생바(재생/일시정지·진행·음량·전체화면)가 나온다
+    video.controls = true;
     // 속성으로도 넣어야 일부 모바일 브라우저에서 자동재생이 막히지 않는다
     video.setAttribute('autoplay', '');
     video.setAttribute('loop', '');
     video.setAttribute('muted', '');
     video.setAttribute('playsinline', '');
+    video.setAttribute('controls', '');
     wrap.appendChild(video);
   };
 
