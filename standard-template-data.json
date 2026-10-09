@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-10-02T00:42:50.974089914Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-10-09T15:09:52.921489604Z",
     "templateType": "trip_f",
     "propertyId": "109e586d-83d0-47cf-bcf3-04ac37813638",
     "homepageId": "01a0a8de-745a-7bc6-9cb1-54a7006405c8"
@@ -74,6 +74,55 @@
       "securityDeposit": 0
     },
     "facilities": [
+      {
+        "id": "01a12135-c7bd-7669-a1d6-fefef5b5ff02",
+        "name": "오션뷰",
+        "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a12135-e44b-7450-ae12-67357b820e67",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a12135-c7bd-7669-a1d6-fefef5b5ff02/main/1791558541905-7nrkjq3v4p.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a12135-e515-741e-ac96-173031caded1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a12135-c7bd-7669-a1d6-fefef5b5ff02/main/1791558541903-03vrbc9ycu.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a12135-e52f-74e9-86f6-b1653f31718c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a12135-c7bd-7669-a1d6-fefef5b5ff02/main/1791558541902-58kawrhenl.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a12135-e44b-7572-a4f6-6ad1b5fa0fe0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a12135-c7bd-7669-a1d6-fefef5b5ff02/main/1791558541904-pj3ivmqms4.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a12135-e469-7d62-9e23-1212b3e5bf75",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a12135-c7bd-7669-a1d6-fefef5b5ff02/main/1791558541906-3n5ivxtefh.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
       {
         "id": "6ae2c7a8-4fd8-464f-b50e-8a114b468963",
         "name": "공용수영장",
@@ -228,6 +277,39 @@
             "blockId": null
           }
         ]
+      },
+      {
+        "id": "01a0fa0f-bc07-7d64-b026-6368ee8679cc",
+        "name": "조식 서비스",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전객실\n- 메뉴: 토스트 시리얼 우유 주스 커피 \n- 이용 요금: 무료\n- 신청 시간: 제한없음\n- 이용 시간: 08:30~10:00\n- 이용 장소: 카페",
+        "displayOrder": 4,
+        "images": [
+          {
+            "id": "01a12135-e224-7b2f-a525-7cd2a6316d44",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa0f-bc07-7d64-b026-6368ee8679cc/main/1791558540590-l37tzt4spx.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a12135-defa-77bf-95b1-1f8cfeeb4bc3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa0f-bc07-7d64-b026-6368ee8679cc/main/1791558540593-tzd0d5reej.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a12135-df1e-7c98-85c0-b46eaec70850",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa0f-bc07-7d64-b026-6368ee8679cc/main/1791558540594-dif9ote0n2.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -289,7 +371,7 @@
           {
             "id": "192e5405-4051-49dd-9164-f471bd72188b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/H7bsX5KRpCW4.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -299,7 +381,7 @@
           {
             "id": "3e44ddf5-6eb1-4f72-aeb8-1d5eb838e40c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/THftDUPSn7Nb.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -307,7 +389,7 @@
           {
             "id": "bff9f4b1-b014-4cab-bfd5-1e70b7a7c7ae",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/dl3Lpsnwf6qG.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -315,7 +397,7 @@
           {
             "id": "3fc38600-a504-4b5c-8e3e-a1d86e7cf958",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/dMpFi7qew8xo.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -323,7 +405,7 @@
           {
             "id": "9e8be743-3db8-4840-8607-52738e8113a1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/40ZT6xrtR3h1.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -331,7 +413,7 @@
           {
             "id": "6c540cb1-357f-4f5c-99f7-0b70c122a5e5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/m5opeIrQjhf6.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -339,7 +421,7 @@
           {
             "id": "88c839ff-b2e1-4f1f-83c3-af1d7c3a0d33",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/tQ7RwhbH9krp.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -347,7 +429,7 @@
           {
             "id": "85837c6e-623a-4e86-bde0-08c1d78b6ace",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/QDqpavgFUMce.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -355,7 +437,7 @@
           {
             "id": "f2b2572a-ccdc-4a31-983c-cdf1db4f72d2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/tIcU78P9X3hn.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -363,7 +445,7 @@
           {
             "id": "42b30e4e-51ec-4f21-8f3a-a944077c0655",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/ehynSJskYE3o.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -371,7 +453,7 @@
           {
             "id": "503f4e0a-aa9e-4699-935f-82e591a10eb7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/4yFeEJ3UwW9B.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -379,7 +461,7 @@
           {
             "id": "43cb9fa5-9dfe-49ae-85dd-1288fadb3932",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/ho4YzdKkHIPs.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -387,7 +469,7 @@
           {
             "id": "f759cf6b-d76d-435b-998e-48316c8c2e30",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/N7FEecyQj5XH.jpg",
-            "sortOrder": 13,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null

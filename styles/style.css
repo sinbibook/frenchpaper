@@ -590,8 +590,10 @@ visual
 .main_room .cont.room-static .room .swiper-container{overflow:hidden;}
 .main_room .cont .room.is-static .swiper-wrapper{display:flex; flex-wrap:wrap; justify-content:center; gap:34px; transform:none !important;}
 .main_room .cont .room.is-static .swiper-slide{width:calc(50% - 17px); max-width:511px; flex:0 0 auto; height:auto;}
-.main_room .cont .room.is-static .c01 .img,
-.main_room .cont .room.is-static .c01:nth-child(even) .img{height:auto; aspect-ratio:1 / 1;}
+.main_room .cont .room.is-static:not(.is-single) .c01 .img,
+.main_room .cont .room.is-static:not(.is-single) .c01:nth-child(even) .img{height:auto; aspect-ratio:1 / 1;}
+/* 객실 1개: 가로 꽉 찬 카드 1장, 이미지 높이는 기본 .c01 .img 높이(500/460/420/380/320) 그대로 */
+.main_room .cont .room.is-static.is-single .swiper-slide{width:100%; max-width:none;}
 
 @media only screen and (max-width:1480px) {
 
